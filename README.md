@@ -19,10 +19,10 @@ The message classifier utilizes natural language processing techniques and LSTM 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/MessageClassifier.git
+   git clone https://github.com/toximate/Message-Spam-Classifier.git
    ```
    ```bash
-   cd MessageClassifier
+   cd Message-Spam-Classifier
    ```
 2. Install dependencies:
 
