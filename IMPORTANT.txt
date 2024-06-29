@@ -1,0 +1,8 @@
+Due to the large size of the GloVe file
+I provided the link where you can download the data 
+Here it is : https://nlp.stanford.edu/data/glove.6B.zip
+
+Steps : 
+
+1 - Download the files from the link provided above.
+2 - Decomp then drag and drop them in the "glove.6B" folder
